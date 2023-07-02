@@ -91,15 +91,4 @@ To run this project, you will need to add the following environment variables to
 5. Then "npm start" in the frontend and backend  folder to run the project on your local system
 
 
-## Contact
 
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Gautam_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam-kumar-9bba54222/)
-
-[![Gmail](https://img.shields.io/badge/Gautam_Kumar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gkomsai788@gmail.com)
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
